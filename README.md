@@ -30,11 +30,8 @@
 
 ## 🖼️ 界面预览
 
-<p align="center">
-  <img src="<img width="1655" height="1060" alt="a91938ea301fbe00a838be982648f1f8" src="https://github.com/user-attachments/assets/4936403e-72cb-4ff3-b8c3-7cab6e0c941b" />" alt="播放界面预览" width="80%">
-  <br>
-  <em>沉浸式全屏播放与简洁的控制栏</em>
-</p>
+<img width="1655" height="1060" alt="a91938ea301fbe00a838be982648f1f8" src="https://github.com/user-attachments/assets/d7393937-2119-4739-b5c6-8c6617f238e8" />
+
 
 ---
 
