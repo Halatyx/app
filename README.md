@@ -1,5 +1,8 @@
 # Halatyx - 极简流畅的跨平台多媒体播放器
 
+<img width="2400" height="1792" alt="Gemini_Generated_Image_nyede4nyede4nyed" src="https://github.com/user-attachments/assets/59e318a8-939b-4375-840c-4023516023ef" />
+
+
 <p align="center">
   <a href="https://github.com/Halatyx/app/releases">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
@@ -28,25 +31,10 @@
 ## 🖼️ 界面预览
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&w=800&q=80" alt="播放界面预览" width="80%">
+  <img src="<img width="1655" height="1060" alt="a91938ea301fbe00a838be982648f1f8" src="https://github.com/user-attachments/assets/4936403e-72cb-4ff3-b8c3-7cab6e0c941b" />" alt="播放界面预览" width="80%">
   <br>
   <em>沉浸式全屏播放与简洁的控制栏</em>
 </p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://images.unsplash.com/photo-1594909122845-11baa439b7bf?auto=format&fit=crop&w=600&q=80" alt="Windows 桌面端"><br>
-      <b>Windows 桌面端</b><br>
-      纯净大屏体验，快捷键顺手
-    </td>
-    <td align="center" width="50%">
-      <img src="https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=600&q=80" alt="Android 移动端"><br>
-      <b>Android 移动端</b><br>
-      手势滑动调音量、调亮度
-    </td>
-  </tr>
-</table>
 
 ---
 
