@@ -5,9 +5,20 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/Version-1.0.5-orange?style=for-the-badge" alt="Version">
+  <!-- 点击跳转到下方的安装板块 -->
+  <a href="#📥-获取与安装">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  </a>
+  <a href="#📥-获取与安装">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  </a>
+
+  <!-- 自动抓取 GitHub 最新 Release 版本号，点击跳转到发布页 -->
+  <a href="https://github.com/Halatyx/app/releases">
+    <img src="https://img.shields.io/github/v/release/Halatyx/app?style=for-the-badge&color=orange&label=VERSION" alt="Latest Version">
+  </a>
+
+  <!-- 免费标识 -->
   <img src="https://img.shields.io/badge/License-Free-green?style=for-the-badge" alt="License">
 </p>
 
