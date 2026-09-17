@@ -1,25 +1,18 @@
 # Halatyx - 极简流畅的跨平台多媒体播放器
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?auto=format&fit=crop&w=1200&q=80" alt="Halatyx Banner" width="100%">
-</p>
-
-<p align="center">
-  <!-- 点击跳转到下方的安装板块 -->
-  <a href="#📥-获取与安装">
+  <a href="https://github.com/Halatyx/app/releases">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   </a>
-  <a href="#📥-获取与安装">
+  <a href="https://github.com/Halatyx/app/releases">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
   </a>
-
-  <!-- 自动抓取 GitHub 最新 Release 版本号，点击跳转到发布页 -->
   <a href="https://github.com/Halatyx/app/releases">
     <img src="https://img.shields.io/github/v/release/Halatyx/app?style=for-the-badge&color=orange&label=VERSION" alt="Latest Version">
   </a>
-
-  <!-- 免费标识 -->
-  <img src="https://img.shields.io/badge/License-Free-green?style=for-the-badge" alt="License">
+  <a href="https://github.com/Halatyx/app/releases">
+    <img src="https://img.shields.io/badge/License-Free-green?style=for-the-badge" alt="License">
+  </a>
 </p>
 
 ---
