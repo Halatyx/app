@@ -35,14 +35,6 @@
         <p align="center">
             <img src="https://github.com/user-attachments/assets/d7393937-2119-4739-b5c6-8c6617f238e8" width="100%" alt="a91938ea301fbe00a838be982648f1f8" style="max-width: 1655px;" />
         </p>
-    </div>
-    <div style="flex: 0 0 48%;">
-        <p align="center">
-            <img src="https://github.com/user-attachments/assets/874623b0-6062-4ae4-95c9-d3724297da1a" width="100%" alt="36c0897eb4b2ad91adc5e8b11a70649d" style="max-width: 1280px;" />
-        </p>
-    </div>
-</div>
-
 
 
 ---
