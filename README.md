@@ -30,7 +30,10 @@
 
 ## 🖼️ 界面预览
 
-<img width="1655" height="1060" alt="a91938ea301fbe00a838be982648f1f8" src="https://github.com/user-attachments/assets/d7393937-2119-4739-b5c6-8c6617f238e8" />   <img width="1280" height="2675" alt="36c0897eb4b2ad91adc5e8b11a70649d" src="https://github.com/user-attachments/assets/874623b0-6062-4ae4-95c9-d3724297da1a" />
+<p>
+  <img width="48%" alt="a91938ea301fbe00a838be982648f1f8" src="https://github.com/user-attachments/assets/d7393937-2119-4739-b5c6-8c6617f238e8" />
+  <img width="48%" alt="36c0897eb4b2ad91adc5e8b11a70649d" src="https://github.com/user-attachments/assets/874623b0-6062-4ae4-95c9-d3724297da1a" />
+</p>
 
 
 
